@@ -46,6 +46,8 @@ Applications*
 - Shu Li, Ana  Bušić, Jean-Michel Fourneau: *Greedy failure and a
 stabilizing partial group discipline on a nested hypergraph*
 
+16:30 **Closing**
+
 
 
 
