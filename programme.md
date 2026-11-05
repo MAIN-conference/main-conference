@@ -5,12 +5,11 @@ navorder: 4
 permalink: /programme/
 ---
 
-**Tentative program** 
+9:00-9:10 **Welcome** — Vincenzo Mancuso and Illés Horváth
 
+9:10-10:10 **Keynote 1** - Sara Alouf, "Analytical Modelling and Online Learning for Modern Caching Systems"
 
-9:00-10:00 **Keynote 1** - Sara Alouf, "Analytical Modelling and Online Learning for Modern Caching Systems"
-
-10:00-10:30 Break
+10:10-10:30 Break
 
 10:30-12:00 **Session 1** - Applications
 
@@ -24,10 +23,9 @@ Large EV Stations: A Mean-Field Decomposition*
 Tzinakis: *Equilibrium joining strategies in a service system with
 information about the number of consecutive joining decisions*
 
-
 12:00-13:00 **Keynote 2** - Giuliano Casale, "Stacks, Lists and Permanents: An Ordered Walk through New Product Forms"
 
-13:00-14:00 Lunch
+13:05-14:00 Lunch
 
 14:00-16:30 **Session 2** - Queueing theory
 
@@ -41,12 +39,14 @@ Residual Service Curves Under General Arrival Curves*
 - Konstantin Avrachenkov, Uri Yechiali: *Equilibrium Queueing Strategies
 in Random Environment*
 
-- Shu Li, Ana  Bušić, Jean-Michel Fourneau: *Greedy failure and a
-stabilizing partial group discipline on a nested hypergraph*
-
 - Mattia Tibaldi, Marco Gribaudo:
 *Multi-formalism Modeling for Fast Design Space Exploration in ADAS
 Applications*
+
+- Shu Li, Ana  Bušić, Jean-Michel Fourneau: *Greedy failure and a
+stabilizing partial group discipline on a nested hypergraph*
+
+
 
 
 
